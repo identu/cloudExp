@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/parentProj/consumer10000/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/consumer10000/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/consumer10001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/consumer10001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/customer10000/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/customer10000/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/eureka12000/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/eureka12000/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/eureka12001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/eureka12001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/provider11000/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/provider11000/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/provider11001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/provider11001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parentProj/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
