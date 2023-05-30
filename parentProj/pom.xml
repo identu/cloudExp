@@ -11,6 +11,8 @@
     <modules>
         <module>provider11000</module>
         <module>provider11001</module>
+        <module>provider11010</module>
+        <module>provider11011</module>
         <module>consumer10000</module>
         <module>consumer10001</module>
         <module>eureka12000</module>
