@@ -13,9 +13,9 @@ public class HelloController {
     @Autowired
     private UserFeignService userFeignService;
 
-    @GetMapping("/hello")
-    public String hello(){
-        return userFeignService.Hello();
+    @GetMapping("/hi")
+    public String hi(){
+        return userFeignService.Hi();
     }
 }
 

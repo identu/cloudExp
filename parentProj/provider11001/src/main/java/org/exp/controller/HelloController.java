@@ -5,11 +5,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/hello")
+@RequestMapping("/hi")
 public class HelloController {
 
     @GetMapping("/say")
-    public String Hello(){
-        return "hello world! there is port 11001!";
+    public String Hi(){
+        return "hi world! there is port 11001!";
     }
 }

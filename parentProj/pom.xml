@@ -17,6 +17,7 @@
         <module>consumer10001</module>
         <module>eureka12000</module>
         <module>eureka12001</module>
+        <module>gateway13000</module>
     </modules>
 
     <properties>
