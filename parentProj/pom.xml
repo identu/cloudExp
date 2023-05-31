@@ -18,6 +18,9 @@
         <module>eureka12000</module>
         <module>eureka12001</module>
         <module>gateway13000</module>
+        <module>configCenter14000</module>
+        <module>configCenter14001</module>
+        <module>configCenter14002</module>
     </modules>
 
     <properties>
