@@ -14,6 +14,7 @@ public class HelloController {
     private String word;
     @GetMapping("/say")
     public String Hello(){
+        System.out.println(word);
         return "hello world! there is port 11000! "+word;
     }
 }
